@@ -1,4 +1,10 @@
+<p align="center">
+  <img src="assets/banner-minimal.svg" alt="Hi, I'm Lexy: full-stack developer, powered by coffee, not cyberware" width="100%">
+</p>
+
 I built [Blossom](https://github.com/mirelalexy/blossom) as my bachelor's thesis project, graduated, and I'm now working on [Chorae](https://github.com/mirelalexy/chorae). I like building apps with a bit of personality.
+
+<img src="assets/divider.svg" alt="" width="100%">
 
 ### Chorae (what I'm working on now)
 
@@ -7,6 +13,8 @@ I built [Blossom](https://github.com/mirelalexy/blossom) as my bachelor's thesis
 ### Blossom
 
 [Blossom](https://github.com/mirelalexy/blossom) is a personal finance app built on the idea that budgeting works better when it accounts for how you feel, not just what you spend. Every transaction can be tagged with a mood and a purchase intent, and Blossom surfaces the patterns over time. It also features savings goals, weekly challenges, tasks and rewards, XP and levels, 8 themes, and an AI chat grounded in your own data. Built with React (Vite), Node.js, Express, and PostgreSQL.
+
+<img src="assets/divider.svg" alt="" width="100%">
 
 ### Other projects
 
@@ -23,6 +31,8 @@ I built [Blossom](https://github.com/mirelalexy/blossom) as my bachelor's thesis
 - **Database:** PostgreSQL
 - **Design:** Figma
 - **Also tried:** Flutter/Dart and C/C++ from when I first started learning to code
+
+<img src="assets/divider.svg" alt="" width="100%">
 
 ### Where I'm headed
 
