@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 190" width="1200" height="190" role="img" aria-label="Hi, I'm Lexy - full-stack developer, powered by coffee, not cyberware">
+  <style>
+    .l1 { fill: #3df5ee; }
+    .l2 { fill: url(#title); }
+    .l3 { fill: #dfe6ff; }
+    .c1 { fill: #3df5ee; }
+    .c2 { fill: #d048e0; }
+    .s1 { stop-color: #b48cff; }
+    .s2 { stop-color: #6f9bff; }
+    .s3 { stop-color: #3df5ee; }
+    @media (prefers-color-scheme: light) {
+      .l1 { fill: #0b8e9c; }
+      .l3 { fill: #3a3f66; }
+      .c1 { fill: #0b8e9c; }
+      .c2 { fill: #b02fc4; }
+      .s1 { stop-color: #7a3fe0; }
+      .s2 { stop-color: #2f5fe0; }
+      .s3 { stop-color: #0aa5b5; }
+      .glow { filter: none; }
+    }
+  </style>
+  <defs>
+    <linearGradient id="title" gradientUnits="userSpaceOnUse" x1="290" y1="0" x2="910" y2="0">
+      <stop class="s1" offset="0"/>
+      <stop class="s2" offset="0.5"/>
+      <stop class="s3" offset="1"/>
+    </linearGradient>
+    <filter id="glowBig" x="-20%" y="-60%" width="140%" height="220%">
+      <feGaussianBlur stdDeviation="3" result="b">
+        <animate attributeName="stdDeviation" values="3;5.5;3" dur="3.5s" repeatCount="indefinite"/>
+      </feGaussianBlur>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowSm" x="-30%" y="-60%" width="160%" height="220%">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="c0"><rect x="481" y="8.7" width="218" height="41.8"><animate attributeName="width" calcMode="discrete" values="0;33.2;46.4;59.6;72.8;86;99.2;112.4;125.6;138.8;152;165.2;178.4;191.6;204.8;218;268" keyTimes="0;0.0286;0.0357;0.0429;0.05;0.0571;0.0643;0.0714;0.0786;0.0857;0.0929;0.1;0.1071;0.1143;0.1214;0.1286;0.1464" dur="14.0s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c1"><rect x="277.6" y="19.4" width="624.8" height="159.6"><animate attributeName="width" calcMode="discrete" values="0;70.4;120.8;171.2;221.6;272;322.4;372.8;423.2;473.6;524;574.4;624.8;674.8" keyTimes="0;0.1929;0.2021;0.2114;0.2207;0.23;0.2393;0.2486;0.2579;0.2671;0.2764;0.2857;0.295;0.3129" dur="14.0s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c2"><rect x="184" y="140.4" width="812" height="45.6"><animate attributeName="width" calcMode="discrete" values="0;34.4;48.8;63.2;77.6;92;106.4;120.8;135.2;149.6;164;178.4;192.8;207.2;221.6;236;250.4;264.8;279.2;293.6;308;322.4;336.8;351.2;365.6;380;394.4;408.8;423.2;437.6;452;466.4;480.8;495.2;509.6;524;538.4;552.8;567.2;581.6;596;610.4;624.8;639.2;653.6;668;682.4;696.8;711.2;725.6;740;754.4;768.8;783.2;797.6;812;862" keyTimes="0;0.3357;0.3407;0.3457;0.3507;0.3557;0.3607;0.3657;0.3707;0.3757;0.3807;0.3857;0.3907;0.3957;0.4007;0.4057;0.4107;0.4157;0.4207;0.4257;0.4307;0.4357;0.4407;0.4457;0.4507;0.4557;0.4607;0.4657;0.4707;0.4757;0.4807;0.4857;0.4907;0.4957;0.5007;0.5057;0.5107;0.5157;0.5207;0.5257;0.5307;0.5357;0.5407;0.5457;0.5507;0.5557;0.5607;0.5657;0.5707;0.5757;0.5807;0.5857;0.5907;0.5957;0.6007;0.6057;0.6236" dur="14.0s" repeatCount="indefinite"/></rect></clipPath>
+  </defs>
+
+  <g clip-path="url(#c0)"><text class="l1 glow" x="501" y="34" font-family="'Courier New', Courier, monospace" font-size="22" font-weight="400" textLength="198" lengthAdjust="spacing" filter="url(#glowSm)" xml:space="preserve">&gt; jacking in...</text></g>
+    <g opacity="0"><animate attributeName="opacity" calcMode="discrete" values="0;1;0" keyTimes="0;0.0286;0.1857" dur="14.0s" repeatCount="indefinite"/><rect class="c1 glow" y="15.96" width="7.26" height="20.9" x="501" filter="url(#glowSm)"><animate attributeName="x" calcMode="discrete" values="501;514.2;527.4;540.6;553.8;567;580.2;593.4;606.6;619.8;633;646.2;659.4;672.6;685.8;699;699" keyTimes="0;0.0286;0.0357;0.0429;0.05;0.0571;0.0643;0.0714;0.0786;0.0857;0.0929;0.1;0.1071;0.1143;0.1214;0.1286;0.1464" dur="14.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;0.15;0.15" keyTimes="0;0.55;0.55;1" dur="1s" repeatCount="indefinite"/></rect></g>
+    <g clip-path="url(#c1)"><text class="l2 glow" x="297.6" y="116" font-family="'Courier New', Courier, monospace" font-size="84" font-weight="700" textLength="604.8" lengthAdjust="spacing" filter="url(#glowBig)" xml:space="preserve">Hi, I'm Lexy</text></g>
+    <g opacity="0"><animate attributeName="opacity" calcMode="discrete" values="0;1;0" keyTimes="0;0.1929;0.3286" dur="14.0s" repeatCount="indefinite"/><rect class="c2 glow" y="47.12" width="27.72" height="79.8" x="297.6" filter="url(#glowSm)"><animate attributeName="x" calcMode="discrete" values="297.6;348;398.4;448.8;499.2;549.6;600;650.4;700.8;751.2;801.6;852;902.4;902.4" keyTimes="0;0.1929;0.2021;0.2114;0.2207;0.23;0.2393;0.2486;0.2579;0.2671;0.2764;0.2857;0.295;0.3129" dur="14.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;0.15;0.15" keyTimes="0;0.55;0.55;1" dur="1s" repeatCount="indefinite"/></rect></g>
+    <g clip-path="url(#c2)"><text class="l3 glow" x="204" y="168" font-family="'Courier New', Courier, monospace" font-size="24" font-weight="400" textLength="792" lengthAdjust="spacing" filter="url(#glowSm)" xml:space="preserve">full-stack developer · powered by coffee, not cyberware</text></g>
+    <g opacity="0"><animate attributeName="opacity" calcMode="discrete" values="0;1" keyTimes="0;0.3357" dur="14.0s" repeatCount="indefinite"/><rect class="c1 glow" y="148.32" width="7.92" height="22.8" x="204" filter="url(#glowSm)"><animate attributeName="x" calcMode="discrete" values="204;218.4;232.8;247.2;261.6;276;290.4;304.8;319.2;333.6;348;362.4;376.8;391.2;405.6;420;434.4;448.8;463.2;477.6;492;506.4;520.8;535.2;549.6;564;578.4;592.8;607.2;621.6;636;650.4;664.8;679.2;693.6;708;722.4;736.8;751.2;765.6;780;794.4;808.8;823.2;837.6;852;866.4;880.8;895.2;909.6;924;938.4;952.8;967.2;981.6;996;996" keyTimes="0;0.3357;0.3407;0.3457;0.3507;0.3557;0.3607;0.3657;0.3707;0.3757;0.3807;0.3857;0.3907;0.3957;0.4007;0.4057;0.4107;0.4157;0.4207;0.4257;0.4307;0.4357;0.4407;0.4457;0.4507;0.4557;0.4607;0.4657;0.4707;0.4757;0.4807;0.4857;0.4907;0.4957;0.5007;0.5057;0.5107;0.5157;0.5207;0.5257;0.5307;0.5357;0.5407;0.5457;0.5507;0.5557;0.5607;0.5657;0.5707;0.5757;0.5807;0.5857;0.5907;0.5957;0.6007;0.6057;0.6236" dur="14.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;0.15;0.15" keyTimes="0;0.55;0.55;1" dur="1s" repeatCount="indefinite"/></rect></g>
+</svg>
