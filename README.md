@@ -47,4 +47,4 @@ I also ask a lot of questions, have opinions about how things should work, and o
 ### Contact
 
 📧 mirelalexydev@gmail.com
-💼 [LinkedIn](https://www.linkedin.com/in/alexandra-mirela-tomescu-701812332)
+💼 [LinkedIn](https://www.linkedin.com/in/alexandra-mirela-tomescu-dev)
