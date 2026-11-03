@@ -40,7 +40,7 @@ I like building things end to end, from the design to the database. I'm branchin
 
 ### Who I am outside coding
 
-Usually playing video games (don't get me started on Resident Evil), listening to music, making very specific playlists just to never listen to them again... or making myself another coffee (that's one thing I cannot live without). 
+Usually playing video games (don't get me started on Resident Evil and Cyberpunk 2077), listening to music, making very specific playlists just to never listen to them again... or making myself another coffee (that's one thing I cannot live without). 
 
 I also ask a lot of questions, have opinions about how things should work, and occasionally turn those opinions into projects. [Chorae](https://github.com/mirelalexy/chorae) exists because I have over a hundred Spotify playlists. Oops...
 
